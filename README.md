@@ -9,4 +9,4 @@ A simple example of a Javascript module.
 * A module **will** define it's own dependencies (Bower and NPM).
 * A module **will** use [semver](http://http://semver.org/) versions.
 
-***lib/** directory is used for build scripts and helpers*
+*./lib directory is used for build scripts and helpers*
