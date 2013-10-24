@@ -1,0 +1,14 @@
+{
+  "name": "ocado-basket",
+  "version": "1.0.0",
+  "description": "A simple basket module description here",
+  "author": "Ocado <front-end@ocado.com>",
+  "repository": "hg <hg.ocado.com/webshoprepos/modules>",
+  "dependencies": {
+    "grunt": "~0.4.1"
+  },
+  "devDependencies": {
+    "grunt-mocha": "0.4.1"
+  },
+  "main": "./module.js"
+}

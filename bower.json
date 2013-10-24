@@ -1,0 +1,8 @@
+{
+  "name": "ocado-basket",
+  "version": "1.0.0",
+  "author": "Ocado <front-end@ocado.com>",
+  "dependencies": {
+    "backbone": "1.1.0"
+  }
+}
